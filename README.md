@@ -8,6 +8,26 @@
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-ff4b4b?logo=streamlit)
 
 ---
+## 📋 Internship Details
+
+| Field | Details |
+|--------|---------|
+| **Intern ID** | CITS5433 |
+| **Intern Name** | Aruna V S |
+| **Domain** | Machine Learning |
+| **Organization** | CODTECH IT SOLUTIONS PRIVATE LIMITED |
+| **Internship Duration** | 6 Weeks |
+| **Internship Period** | 22 June 2026 – 03 August 2026 |
+| **Project** | Recommendation System with LightFM |
+
+## 🚀 Live Demo
+
+🌐 **Streamlit App:**  
+https://lightfm-recommendation-system-a84xacokvoidx6zbmrzvwf.streamlit.app/
+
+📂 **GitHub Repository:**  
+https://github.com/Aruna2715/LightFM-Recommendation-System
+
 
 ## 📌 Project Overview
 
