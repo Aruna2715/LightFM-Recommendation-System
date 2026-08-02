@@ -117,17 +117,41 @@ The deployed dashboard reads the precomputed recommendation outputs generated du
 
 ---
 
-## 📷 Suggested Screenshots
+## 📷 Dashboard Screenshots
 
-```text
-screenshots/
-├── discover.png
-├── for_you.png
-├── trending.png
-├── audience_insights.png
-├── model_studio.png
-└── about.png
-```
+### 🏠 Discover
+
+<img src="screenshots/discover.png" width="900">
+
+---
+
+### 🎯 For You
+
+<img src="screenshots/for_you.png" width="900">
+
+---
+
+### 🔥 Trending
+
+<img src="screenshots/trending.png" width="900">
+
+---
+
+### 📊 Audience Insights
+
+<img src="screenshots/audience_insights.png" width="900">
+
+---
+
+### 📈 Model Studio
+
+<img src="screenshots/model_studio.png" width="900">
+
+---
+
+### ℹ️ About
+
+<img src="screenshots/about.png" width="900">
 
 ---
 
